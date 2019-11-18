@@ -1,4 +1,6 @@
-# touchdesigner_ldi_intro_2019
+# TouchDesigner LDI Intro 2019
+
+![](assets/ldi-workshop-img.png)
 
 ## Overview
 Join Matthew Ragan from Obscura Digital for a whirlwind tour of developing custom playback and generative systems. Over the course of two full days participants will learn the fundamental principles and organizational flow of working in Derivative’s TouchDesigner – for the uninitiated, TouchDesigner is a node based programming environment used in installations, live events, and museums internationally. This workshop will largely be focused on the intersection of art / design and the development of new tools for live performance. While there are a growing number of tools for media playback in live events, there are precious few for creating dynamic and generative artwork. In this workshop we will look at both how to playback traditionally made content, as well as how to build generative real-time rendered environments. Participants will also look at using existing modules in TouchDesigner for projection mapping applications large and small. More than just a flash and trash demo, this workshop aims to help familiarize participants with a development environment as well as examine the challenges and opportunities when designing real-time systems.
